@@ -1,0 +1,174 @@
+﻿using System;
+using System.Drawing;
+using System.Windows.Forms;
+
+namespace labcenter
+{
+    public partial class Form1 : Form
+    {
+        bool permitirCerrar = false;
+        private Label lblContador;
+        private Label lblNombreUsuario;
+        private Timer contadorTimer;
+        private int tiempoTranscurrido = 0;
+        private Button btnMinimizarContador;
+        private bool contadorMinimizado = false;
+
+        public Form1()
+        {
+            InitializeComponent();
+
+            // Pantalla completa
+            this.FormBorderStyle = FormBorderStyle.None;
+            this.WindowState = FormWindowState.Maximized;
+            this.TopMost = true;
+
+            // Fondo con imagen
+            this.BackgroundImage = Image.FromFile("fondoxd.jpeg"); // pon la imagen en la carpeta del .exe
+            this.BackgroundImageLayout = ImageLayout.Stretch;
+        }
+
+        private void btnLogin_Click(object sender, EventArgs e)
+        {
+            if (txtUser.Text == "admin" && txtPass.Text == "1234")
+            {
+                // Remover controles de login
+                this.Controls.Remove(this.txtUser);
+                this.Controls.Remove(this.txtPass);
+                this.Controls.Remove(this.btnLogin);
+                this.Controls.Remove(this.lblUser);
+                this.Controls.Remove(this.lblPass);
+                this.Controls.Remove(this.chkMostrar);
+
+                // Mostrar contador y nombre de usuario
+                MostrarContador();
+            }
+            else
+            {
+                MessageBox.Show("Incorrecto");
+            }
+        }
+
+        private void MostrarContador()
+        {
+            // Desactivar el bloqueo de pantalla
+            this.TopMost = false;
+            this.FormBorderStyle = FormBorderStyle.Sizable;
+            this.WindowState = FormWindowState.Normal;
+
+            // Label con nombre de usuario (pequeño)
+            this.lblNombreUsuario = new Label();
+            this.lblNombreUsuario.Text = "Usuario: admin";
+            this.lblNombreUsuario.ForeColor = Color.White;
+            this.lblNombreUsuario.BackColor = Color.Transparent;
+            this.lblNombreUsuario.Font = new Font("Arial", 12, FontStyle.Regular);
+            this.lblNombreUsuario.AutoSize = true;
+            this.lblNombreUsuario.Location = new Point(20, 20);
+            this.Controls.Add(this.lblNombreUsuario);
+
+            // Label para el contador (pequeño, esquina superior izquierda)
+            this.lblContador = new Label();
+            this.lblContador.Text = "00:00:00";
+            this.lblContador.ForeColor = Color.White;
+            this.lblContador.BackColor = Color.Transparent;
+            this.lblContador.Font = new Font("Arial", 24, FontStyle.Bold);
+            this.lblContador.AutoSize = false;
+            this.lblContador.Size = new Size(180, 50);
+            this.lblContador.TextAlign = ContentAlignment.MiddleCenter;
+            this.lblContador.Location = new Point(20, 50);
+            this.lblContador.BorderStyle = BorderStyle.FixedSingle;
+            this.Controls.Add(this.lblContador);
+
+            // Botón para minimizar/restaurar contador
+            this.btnMinimizarContador = new Button();
+            this.btnMinimizarContador.Text = "-";
+            this.btnMinimizarContador.ForeColor = Color.White;
+            this.btnMinimizarContador.BackColor = Color.DarkGray;
+            this.btnMinimizarContador.Font = new Font("Arial", 12, FontStyle.Bold);
+            this.btnMinimizarContador.Size = new Size(30, 30);
+            this.btnMinimizarContador.Location = new Point(210, 50);
+            this.btnMinimizarContador.Click += new System.EventHandler(this.btnMinimizarContador_Click);
+            this.Controls.Add(this.btnMinimizarContador);
+
+            // Iniciar timer
+            contadorTimer = new Timer();
+            contadorTimer.Interval = 1000;
+            contadorTimer.Tick += new EventHandler(ContadorTimer_Tick);
+            contadorTimer.Start();
+
+            tiempoTranscurrido = 0;
+        }
+
+        private void btnMinimizarContador_Click(object sender, EventArgs e)
+        {
+            contadorMinimizado = !contadorMinimizado;
+
+            if (contadorMinimizado)
+            {
+                this.lblContador.Visible = false;
+                this.btnMinimizarContador.Text = "+";
+                this.btnMinimizarContador.Location = new Point(20, 50);
+            }
+            else
+            {
+                this.lblContador.Visible = true;
+                this.btnMinimizarContador.Text = "-";
+                this.btnMinimizarContador.Location = new Point(210, 50);
+            }
+        }
+
+        private void ContadorTimer_Tick(object sender, EventArgs e)
+        {
+            tiempoTranscurrido++;
+
+            int horas = tiempoTranscurrido / 3600;
+            int minutos = (tiempoTranscurrido % 3600) / 60;
+            int segundos = tiempoTranscurrido % 60;
+
+            this.lblContador.Text = $"{horas:D2}:{minutos:D2}:{segundos:D2}";
+        }
+
+        // 👁️ Mostrar contraseña
+        private void chkMostrar_CheckedChanged(object sender, EventArgs e)
+        {
+            txtPass.PasswordChar = chkMostrar.Checked ? '\0' : '*';
+        }
+
+        protected override void OnFormClosing(FormClosingEventArgs e)
+        {
+            if (!permitirCerrar)
+                e.Cancel = true;
+        }
+
+        protected override bool ProcessCmdKey(ref Message msg, Keys keyData)
+        {
+            // 🔑 Modo admin
+            if (keyData == (Keys.Control | Keys.Shift | Keys.A))
+            {
+                MessageBox.Show("Modo administrador activado");
+
+                permitirCerrar = true;
+                this.TopMost = false;
+                this.Close();
+
+                return true;
+            }
+
+            // 🔴 Alt + F4 - Deshabilitado
+            if (keyData == (Keys.Alt | Keys.F4))
+            {
+                return true;
+            }
+
+            return base.ProcessCmdKey(ref msg, keyData);
+        }
+        protected override void OnLoad(EventArgs e)
+        {
+            base.OnLoad(e);
+
+            // mover a la esquina superior derecha correctamente
+            lblPC.Left = this.ClientSize.Width - lblPC.Width - 20;
+            lblPC.Top = 20;
+        }
+    }
+}

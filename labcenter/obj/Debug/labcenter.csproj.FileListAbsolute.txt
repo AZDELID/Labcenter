@@ -1,0 +1,77 @@
+C:\Users\shade\source\repos\labcenter\labcenter\bin\Debug\labcenter.exe.config
+C:\Users\shade\source\repos\labcenter\labcenter\bin\Debug\labcenter.exe
+C:\Users\shade\source\repos\labcenter\labcenter\bin\Debug\labcenter.pdb
+C:\Users\shade\source\repos\labcenter\labcenter\obj\Debug\labcenter.csproj.AssemblyReference.cache
+C:\Users\shade\source\repos\labcenter\labcenter\obj\Debug\labcenter.Properties.Resources.resources
+C:\Users\shade\source\repos\labcenter\labcenter\obj\Debug\labcenter.csproj.GenerateResource.cache
+C:\Users\shade\source\repos\labcenter\labcenter\obj\Debug\labcenter.csproj.CoreCompileInputs.cache
+C:\Users\shade\source\repos\labcenter\labcenter\obj\Debug\labcenter.exe
+C:\Users\shade\source\repos\labcenter\labcenter\obj\Debug\labcenter.pdb
+C:\Users\shade\source\repos\labcenter\labcenter\bin\Debug\Newtonsoft.Json.dll
+C:\Users\shade\source\repos\labcenter\labcenter\bin\Debug\Newtonsoft.Json.xml
+C:\Users\shade\source\repos\labcenter\labcenter\obj\Debug\labcenter.csproj.Up2Date
+D:\Users\Gaming\source\repos\labcenter\labcenter\bin\Debug\labcenter.exe.config
+D:\Users\Gaming\source\repos\labcenter\labcenter\bin\Debug\labcenter.exe
+D:\Users\Gaming\source\repos\labcenter\labcenter\bin\Debug\labcenter.pdb
+D:\Users\Gaming\source\repos\labcenter\labcenter\bin\Debug\Newtonsoft.Json.dll
+D:\Users\Gaming\source\repos\labcenter\labcenter\bin\Debug\Newtonsoft.Json.xml
+D:\Users\Gaming\source\repos\labcenter\labcenter\obj\Debug\labcenter.csproj.AssemblyReference.cache
+D:\Users\Gaming\source\repos\labcenter\labcenter\obj\Debug\labcenter.Form1.resources
+D:\Users\Gaming\source\repos\labcenter\labcenter\obj\Debug\labcenter.Properties.Resources.resources
+D:\Users\Gaming\source\repos\labcenter\labcenter\obj\Debug\labcenter.csproj.GenerateResource.cache
+D:\Users\Gaming\source\repos\labcenter\labcenter\obj\Debug\labcenter.csproj.CoreCompileInputs.cache
+D:\Users\Gaming\source\repos\labcenter\labcenter\obj\Debug\labcenter.csproj.Up2Date
+D:\Users\Gaming\source\repos\labcenter\labcenter\obj\Debug\labcenter.exe
+D:\Users\Gaming\source\repos\labcenter\labcenter\obj\Debug\labcenter.pdb
+D:\06 Modulo 5\labcenter\labcenter\bin\Debug\labcenter.exe.config
+D:\06 Modulo 5\labcenter\labcenter\bin\Debug\labcenter.exe
+D:\06 Modulo 5\labcenter\labcenter\bin\Debug\labcenter.pdb
+D:\06 Modulo 5\labcenter\labcenter\bin\Debug\Newtonsoft.Json.dll
+D:\06 Modulo 5\labcenter\labcenter\bin\Debug\Newtonsoft.Json.xml
+D:\06 Modulo 5\labcenter\labcenter\obj\Debug\labcenter.csproj.AssemblyReference.cache
+D:\06 Modulo 5\labcenter\labcenter\obj\Debug\labcenter.Form1.resources
+D:\06 Modulo 5\labcenter\labcenter\obj\Debug\labcenter.Properties.Resources.resources
+D:\06 Modulo 5\labcenter\labcenter\obj\Debug\labcenter.csproj.GenerateResource.cache
+D:\06 Modulo 5\labcenter\labcenter\obj\Debug\labcenter.csproj.CoreCompileInputs.cache
+D:\06 Modulo 5\labcenter\labcenter\obj\Debug\labcenter.csproj.Up2Date
+D:\06 Modulo 5\labcenter\labcenter\obj\Debug\labcenter.exe
+D:\06 Modulo 5\labcenter\labcenter\obj\Debug\labcenter.pdb
+C:\Users\Gaming\Downloads\as\labcenter\labcenter\bin\Debug\labcenter.exe.config
+C:\Users\Gaming\Downloads\as\labcenter\labcenter\bin\Debug\labcenter.exe
+C:\Users\Gaming\Downloads\as\labcenter\labcenter\bin\Debug\labcenter.pdb
+C:\Users\Gaming\Downloads\as\labcenter\labcenter\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Gaming\Downloads\as\labcenter\labcenter\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Gaming\Downloads\as\labcenter\labcenter\obj\Debug\labcenter.Form1.resources
+C:\Users\Gaming\Downloads\as\labcenter\labcenter\obj\Debug\labcenter.Properties.Resources.resources
+C:\Users\Gaming\Downloads\as\labcenter\labcenter\obj\Debug\labcenter.csproj.GenerateResource.Cache
+C:\Users\Gaming\Downloads\as\labcenter\labcenter\obj\Debug\labcenter.exe
+C:\Users\Gaming\Downloads\as\labcenter\labcenter\obj\Debug\labcenter.pdb
+C:\Users\Gaming\Downloads\as\labcenter\labcenter\obj\Debug\labcenter.csproj.AssemblyReference.cache
+C:\Users\Gaming\Downloads\as\labcenter\labcenter\obj\Debug\labcenter.csproj.CoreCompileInputs.cache
+C:\Users\Gaming\Downloads\as\labcenter\labcenter\obj\Debug\labcenter.csproj.Up2Date
+C:\Users\chris\Downloads\labcenter\labcenter\bin\Debug\labcenter.exe.config
+C:\Users\chris\Downloads\labcenter\labcenter\bin\Debug\labcenter.exe
+C:\Users\chris\Downloads\labcenter\labcenter\bin\Debug\labcenter.pdb
+C:\Users\chris\Downloads\labcenter\labcenter\bin\Debug\Newtonsoft.Json.dll
+C:\Users\chris\Downloads\labcenter\labcenter\bin\Debug\Newtonsoft.Json.xml
+C:\Users\chris\Downloads\labcenter\labcenter\obj\Debug\labcenter.csproj.AssemblyReference.cache
+C:\Users\chris\Downloads\labcenter\labcenter\obj\Debug\labcenter.Form1.resources
+C:\Users\chris\Downloads\labcenter\labcenter\obj\Debug\labcenter.Properties.Resources.resources
+C:\Users\chris\Downloads\labcenter\labcenter\obj\Debug\labcenter.csproj.GenerateResource.cache
+C:\Users\chris\Downloads\labcenter\labcenter\obj\Debug\labcenter.csproj.CoreCompileInputs.cache
+C:\Users\chris\Downloads\labcenter\labcenter\obj\Debug\labcenter.csproj.Up2Date
+C:\Users\chris\Downloads\labcenter\labcenter\obj\Debug\labcenter.exe
+C:\Users\chris\Downloads\labcenter\labcenter\obj\Debug\labcenter.pdb
+C:\Users\shade\OneDrive\Desktop\labcenter\labcenter\bin\Debug\labcenter.exe.config
+C:\Users\shade\OneDrive\Desktop\labcenter\labcenter\bin\Debug\labcenter.exe
+C:\Users\shade\OneDrive\Desktop\labcenter\labcenter\bin\Debug\labcenter.pdb
+C:\Users\shade\OneDrive\Desktop\labcenter\labcenter\bin\Debug\Newtonsoft.Json.dll
+C:\Users\shade\OneDrive\Desktop\labcenter\labcenter\bin\Debug\Newtonsoft.Json.xml
+C:\Users\shade\OneDrive\Desktop\labcenter\labcenter\obj\Debug\labcenter.csproj.AssemblyReference.cache
+C:\Users\shade\OneDrive\Desktop\labcenter\labcenter\obj\Debug\labcenter.Form1.resources
+C:\Users\shade\OneDrive\Desktop\labcenter\labcenter\obj\Debug\labcenter.Properties.Resources.resources
+C:\Users\shade\OneDrive\Desktop\labcenter\labcenter\obj\Debug\labcenter.csproj.GenerateResource.cache
+C:\Users\shade\OneDrive\Desktop\labcenter\labcenter\obj\Debug\labcenter.csproj.CoreCompileInputs.cache
+C:\Users\shade\OneDrive\Desktop\labcenter\labcenter\obj\Debug\labcenter.csproj.Up2Date
+C:\Users\shade\OneDrive\Desktop\labcenter\labcenter\obj\Debug\labcenter.exe
+C:\Users\shade\OneDrive\Desktop\labcenter\labcenter\obj\Debug\labcenter.pdb

@@ -1,0 +1,78 @@
+﻿using System.Windows.Forms;
+using System.Drawing;
+
+namespace labcenter
+{
+
+    partial class Form1
+    {
+
+        private CheckBox chkMostrar; 
+
+        private System.ComponentModel.IContainer components = null;
+        private TextBox txtUser;
+        private TextBox txtPass;
+        private Button btnLogin;
+        private Label lblUser;
+        private Label lblPass;
+        private Label lblPC;
+
+        private void InitializeComponent()
+        {
+            this.txtUser = new TextBox();
+            this.txtPass = new TextBox();
+            this.btnLogin = new Button();
+            this.lblUser = new Label();
+            this.lblPass = new Label();
+
+            this.lblUser.Text = "Usuario:";
+            this.lblUser.ForeColor = Color.Black;
+            this.lblUser.Location = new Point(600, 300);
+
+            this.txtUser.Location = new Point(700, 300);
+
+            this.lblPass.Text = "Contraseña:";
+            this.lblPass.ForeColor = Color.Black;
+            this.lblPass.Location = new Point(600, 350);
+
+            this.txtPass.Location = new Point(700, 350);
+            this.txtPass.PasswordChar = '*';
+
+            this.btnLogin.Text = "Ingresar";
+            this.btnLogin.Location = new Point(700, 400);
+            this.btnLogin.Click += new System.EventHandler(this.btnLogin_Click);
+
+            this.Controls.Add(this.txtUser);
+            this.Controls.Add(this.txtPass);
+            this.Controls.Add(this.btnLogin);
+            this.Controls.Add(this.lblUser);
+            this.Controls.Add(this.lblPass);
+
+            // Checkbox mostrar contraseña
+            this.chkMostrar = new CheckBox();
+            this.chkMostrar.Text = "Mostrar";
+            this.chkMostrar.ForeColor = Color.Black;
+            this.chkMostrar.Location = new Point(700, 380);
+            this.chkMostrar.CheckedChanged += new System.EventHandler(this.chkMostrar_CheckedChanged);
+
+            // Agregar al form
+            this.Controls.Add(this.chkMostrar);
+
+
+
+            // Label número de máquina
+            this.lblPC = new Label();
+            this.lblPC.Text = "17";
+            this.lblPC.ForeColor = Color.White;
+            this.lblPC.BackColor = Color.Transparent;
+            this.lblPC.Font = new Font("Arial", 48, FontStyle.Bold);
+
+            // Posición (arriba derecha)
+            this.lblPC.AutoSize = true;
+            this.lblPC.Location = new Point(this.Width - 150, 20);
+
+            // Agregar al form
+            this.Controls.Add(this.lblPC);
+        }
+    }
+}
