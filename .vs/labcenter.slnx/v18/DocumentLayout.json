@@ -1,67 +1,67 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\shade\\OneDrive\\Desktop\\labcenter\\",
+  "WorkspaceRootPath": "C:\\Proyectos\\C#\\GestorDeLaboratorio\\Labcenter\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{73BEC68D-DDBC-433B-BF7A-69B671082863}|labcenter\\labcenter.csproj|C:\\Users\\shade\\OneDrive\\Desktop\\labcenter\\labcenter\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{73BEC68D-DDBC-433B-BF7A-69B671082863}|labcenter\\labcenter.csproj|c:\\proyectos\\c#\\gestordelaboratorio\\labcenter\\labcenter\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{73BEC68D-DDBC-433B-BF7A-69B671082863}|labcenter\\labcenter.csproj|solutionrelative:labcenter\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{73BEC68D-DDBC-433B-BF7A-69B671082863}|labcenter\\labcenter.csproj|C:\\Users\\shade\\OneDrive\\Desktop\\labcenter\\labcenter\\Services\\ApiAuthenticationService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{73BEC68D-DDBC-433B-BF7A-69B671082863}|labcenter\\labcenter.csproj|C:\\Proyectos\\C#\\GestorDeLaboratorio\\Labcenter\\labcenter\\Services\\ApiAuthenticationService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{73BEC68D-DDBC-433B-BF7A-69B671082863}|labcenter\\labcenter.csproj|solutionrelative:labcenter\\Services\\ApiAuthenticationService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shade\\AppData\\Local\\Temp\\.vsdbgsrc\\fe06f3a46cdb6ed01a12545fb24f592f048748425b10c4c3bdb1f451299e95a3\\Application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{73BEC68D-DDBC-433B-BF7A-69B671082863}|labcenter\\labcenter.csproj|C:\\Users\\shade\\OneDrive\\Desktop\\labcenter\\labcenter\\services\\authenticationbridge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{73BEC68D-DDBC-433B-BF7A-69B671082863}|labcenter\\labcenter.csproj|C:\\Proyectos\\C#\\GestorDeLaboratorio\\Labcenter\\labcenter\\services\\authenticationbridge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{73BEC68D-DDBC-433B-BF7A-69B671082863}|labcenter\\labcenter.csproj|solutionrelative:labcenter\\services\\authenticationbridge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{73BEC68D-DDBC-433B-BF7A-69B671082863}|labcenter\\labcenter.csproj|C:\\Users\\shade\\OneDrive\\Desktop\\labcenter\\labcenter\\Infrastructure\\TrayIconManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{73BEC68D-DDBC-433B-BF7A-69B671082863}|labcenter\\labcenter.csproj|C:\\Proyectos\\C#\\GestorDeLaboratorio\\Labcenter\\labcenter\\Infrastructure\\TrayIconManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{73BEC68D-DDBC-433B-BF7A-69B671082863}|labcenter\\labcenter.csproj|solutionrelative:labcenter\\Infrastructure\\TrayIconManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{73BEC68D-DDBC-433B-BF7A-69B671082863}|labcenter\\labcenter.csproj|C:\\Users\\shade\\OneDrive\\Desktop\\labcenter\\labcenter\\Models\\AuthenticatedUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{73BEC68D-DDBC-433B-BF7A-69B671082863}|labcenter\\labcenter.csproj|C:\\Proyectos\\C#\\GestorDeLaboratorio\\Labcenter\\labcenter\\Models\\AuthenticatedUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{73BEC68D-DDBC-433B-BF7A-69B671082863}|labcenter\\labcenter.csproj|solutionrelative:labcenter\\Models\\AuthenticatedUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{73BEC68D-DDBC-433B-BF7A-69B671082863}|labcenter\\labcenter.csproj|C:\\Users\\shade\\OneDrive\\Desktop\\labcenter\\labcenter\\views\\sessiontimerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{73BEC68D-DDBC-433B-BF7A-69B671082863}|labcenter\\labcenter.csproj|C:\\Proyectos\\C#\\GestorDeLaboratorio\\Labcenter\\labcenter\\views\\sessiontimerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{73BEC68D-DDBC-433B-BF7A-69B671082863}|labcenter\\labcenter.csproj|solutionrelative:labcenter\\views\\sessiontimerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\chris\\Downloads\\labcenter\\labcenter\\Services\\IAuthenticationService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{73BEC68D-DDBC-433B-BF7A-69B671082863}|labcenter\\labcenter.csproj|C:\\Users\\shade\\OneDrive\\Desktop\\labcenter\\labcenter\\Views\\MovableWindowBehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{73BEC68D-DDBC-433B-BF7A-69B671082863}|labcenter\\labcenter.csproj|C:\\Proyectos\\C#\\GestorDeLaboratorio\\Labcenter\\labcenter\\Views\\MovableWindowBehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{73BEC68D-DDBC-433B-BF7A-69B671082863}|labcenter\\labcenter.csproj|solutionrelative:labcenter\\Views\\MovableWindowBehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{73BEC68D-DDBC-433B-BF7A-69B671082863}|labcenter\\labcenter.csproj|C:\\Users\\shade\\OneDrive\\Desktop\\labcenter\\labcenter\\Services\\OfflineAuthenticationService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{73BEC68D-DDBC-433B-BF7A-69B671082863}|labcenter\\labcenter.csproj|C:\\Proyectos\\C#\\GestorDeLaboratorio\\Labcenter\\labcenter\\Services\\OfflineAuthenticationService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{73BEC68D-DDBC-433B-BF7A-69B671082863}|labcenter\\labcenter.csproj|solutionrelative:labcenter\\Services\\OfflineAuthenticationService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{73BEC68D-DDBC-433B-BF7A-69B671082863}|labcenter\\labcenter.csproj|C:\\Users\\shade\\OneDrive\\Desktop\\labcenter\\labcenter\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{73BEC68D-DDBC-433B-BF7A-69B671082863}|labcenter\\labcenter.csproj|C:\\Proyectos\\C#\\GestorDeLaboratorio\\Labcenter\\labcenter\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{73BEC68D-DDBC-433B-BF7A-69B671082863}|labcenter\\labcenter.csproj|solutionrelative:labcenter\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{73BEC68D-DDBC-433B-BF7A-69B671082863}|labcenter\\labcenter.csproj|C:\\Users\\shade\\OneDrive\\Desktop\\labcenter\\labcenter\\models\\labcenterconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{73BEC68D-DDBC-433B-BF7A-69B671082863}|labcenter\\labcenter.csproj|C:\\Proyectos\\C#\\GestorDeLaboratorio\\Labcenter\\labcenter\\models\\labcenterconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{73BEC68D-DDBC-433B-BF7A-69B671082863}|labcenter\\labcenter.csproj|solutionrelative:labcenter\\models\\labcenterconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{73BEC68D-DDBC-433B-BF7A-69B671082863}|labcenter\\labcenter.csproj|C:\\Users\\shade\\OneDrive\\Desktop\\labcenter\\labcenter\\Properties\\Resources.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{73BEC68D-DDBC-433B-BF7A-69B671082863}|labcenter\\labcenter.csproj|C:\\Proyectos\\C#\\GestorDeLaboratorio\\Labcenter\\labcenter\\Properties\\Resources.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{73BEC68D-DDBC-433B-BF7A-69B671082863}|labcenter\\labcenter.csproj|solutionrelative:labcenter\\Properties\\Resources.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{73BEC68D-DDBC-433B-BF7A-69B671082863}|labcenter\\labcenter.csproj|C:\\Users\\shade\\OneDrive\\Desktop\\labcenter\\labcenter\\Properties\\Settings.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{73BEC68D-DDBC-433B-BF7A-69B671082863}|labcenter\\labcenter.csproj|C:\\Proyectos\\C#\\GestorDeLaboratorio\\Labcenter\\labcenter\\Properties\\Settings.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{73BEC68D-DDBC-433B-BF7A-69B671082863}|labcenter\\labcenter.csproj|solutionrelative:labcenter\\Properties\\Settings.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{73BEC68D-DDBC-433B-BF7A-69B671082863}|labcenter\\labcenter.csproj|C:\\Users\\shade\\OneDrive\\Desktop\\labcenter\\labcenter\\Properties\\Settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
+      "AbsoluteMoniker": "D:0:0:{73BEC68D-DDBC-433B-BF7A-69B671082863}|labcenter\\labcenter.csproj|C:\\Proyectos\\C#\\GestorDeLaboratorio\\Labcenter\\labcenter\\Properties\\Settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
       "RelativeMoniker": "D:0:0:{73BEC68D-DDBC-433B-BF7A-69B671082863}|labcenter\\labcenter.csproj|solutionrelative:labcenter\\Properties\\Settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{73BEC68D-DDBC-433B-BF7A-69B671082863}|labcenter\\labcenter.csproj|C:\\Users\\shade\\OneDrive\\Desktop\\labcenter\\labcenter\\Properties\\AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{73BEC68D-DDBC-433B-BF7A-69B671082863}|labcenter\\labcenter.csproj|C:\\Proyectos\\C#\\GestorDeLaboratorio\\Labcenter\\labcenter\\Properties\\AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{73BEC68D-DDBC-433B-BF7A-69B671082863}|labcenter\\labcenter.csproj|solutionrelative:labcenter\\Properties\\AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -78,9 +78,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\shade\\OneDrive\\Desktop\\labcenter\\labcenter\\Form1.cs",
+              "DocumentMoniker": "C:\\Proyectos\\C#\\GestorDeLaboratorio\\Labcenter\\labcenter\\Form1.cs",
               "RelativeDocumentMoniker": "labcenter\\Form1.cs",
-              "ToolTip": "C:\\Users\\shade\\OneDrive\\Desktop\\labcenter\\labcenter\\Form1.cs",
+              "ToolTip": "C:\\Proyectos\\C#\\GestorDeLaboratorio\\Labcenter\\labcenter\\Form1.cs",
               "RelativeToolTip": "labcenter\\Form1.cs",
               "ViewState": "AgIAAJIAAAAAAAAAAAAewKEAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -97,34 +97,32 @@
               "DocumentIndex": 2,
               "Title": "Application.cs",
               "DocumentMoniker": "C:\\Users\\shade\\AppData\\Local\\Temp\\.vsdbgsrc\\fe06f3a46cdb6ed01a12545fb24f592f048748425b10c4c3bdb1f451299e95a3\\Application.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\fe06f3a46cdb6ed01a12545fb24f592f048748425b10c4c3bdb1f451299e95a3\\Application.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Users\\shade\\AppData\\Local\\Temp\\.vsdbgsrc\\fe06f3a46cdb6ed01a12545fb24f592f048748425b10c4c3bdb1f451299e95a3\\Application.cs",
               "ToolTip": "C:\\Users\\shade\\AppData\\Local\\Temp\\.vsdbgsrc\\fe06f3a46cdb6ed01a12545fb24f592f048748425b10c4c3bdb1f451299e95a3\\Application.cs",
-              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\fe06f3a46cdb6ed01a12545fb24f592f048748425b10c4c3bdb1f451299e95a3\\Application.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Users\\shade\\AppData\\Local\\Temp\\.vsdbgsrc\\fe06f3a46cdb6ed01a12545fb24f592f048748425b10c4c3bdb1f451299e95a3\\Application.cs",
               "ViewState": "AgIAAHYAAAAAAAAAAAAkwJwAAAAEAAAAAQAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-05T03:33:08.142Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-05T03:33:08.142Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "ApiAuthenticationService.cs",
-              "DocumentMoniker": "C:\\Users\\shade\\OneDrive\\Desktop\\labcenter\\labcenter\\Services\\ApiAuthenticationService.cs",
+              "DocumentMoniker": "C:\\Proyectos\\C#\\GestorDeLaboratorio\\Labcenter\\labcenter\\Services\\ApiAuthenticationService.cs",
               "RelativeDocumentMoniker": "labcenter\\Services\\ApiAuthenticationService.cs",
-              "ToolTip": "C:\\Users\\shade\\OneDrive\\Desktop\\labcenter\\labcenter\\Services\\ApiAuthenticationService.cs",
+              "ToolTip": "C:\\Proyectos\\C#\\GestorDeLaboratorio\\Labcenter\\labcenter\\Services\\ApiAuthenticationService.cs",
               "RelativeToolTip": "labcenter\\Services\\ApiAuthenticationService.cs",
               "ViewState": "AgIAAEkAAAAAAAAAAAAuwFUAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-16T20:15:20.01Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-16T20:15:20.01Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "AuthenticationBridge.cs",
-              "DocumentMoniker": "C:\\Users\\shade\\OneDrive\\Desktop\\labcenter\\labcenter\\Services\\AuthenticationBridge.cs",
+              "DocumentMoniker": "C:\\Proyectos\\C#\\GestorDeLaboratorio\\Labcenter\\labcenter\\Services\\AuthenticationBridge.cs",
               "RelativeDocumentMoniker": "labcenter\\Services\\AuthenticationBridge.cs",
-              "ToolTip": "C:\\Users\\shade\\OneDrive\\Desktop\\labcenter\\labcenter\\Services\\AuthenticationBridge.cs",
+              "ToolTip": "C:\\Proyectos\\C#\\GestorDeLaboratorio\\Labcenter\\labcenter\\Services\\AuthenticationBridge.cs",
               "RelativeToolTip": "labcenter\\Services\\AuthenticationBridge.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAADwvyIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -134,9 +132,9 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "OfflineAuthenticationService.cs",
-              "DocumentMoniker": "C:\\Users\\shade\\OneDrive\\Desktop\\labcenter\\labcenter\\Services\\OfflineAuthenticationService.cs",
+              "DocumentMoniker": "C:\\Proyectos\\C#\\GestorDeLaboratorio\\Labcenter\\labcenter\\Services\\OfflineAuthenticationService.cs",
               "RelativeDocumentMoniker": "labcenter\\Services\\OfflineAuthenticationService.cs",
-              "ToolTip": "C:\\Users\\shade\\OneDrive\\Desktop\\labcenter\\labcenter\\Services\\OfflineAuthenticationService.cs",
+              "ToolTip": "C:\\Proyectos\\C#\\GestorDeLaboratorio\\Labcenter\\labcenter\\Services\\OfflineAuthenticationService.cs",
               "RelativeToolTip": "labcenter\\Services\\OfflineAuthenticationService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -146,9 +144,9 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "MovableWindowBehavior.cs",
-              "DocumentMoniker": "C:\\Users\\shade\\OneDrive\\Desktop\\labcenter\\labcenter\\Views\\MovableWindowBehavior.cs",
+              "DocumentMoniker": "C:\\Proyectos\\C#\\GestorDeLaboratorio\\Labcenter\\labcenter\\Views\\MovableWindowBehavior.cs",
               "RelativeDocumentMoniker": "labcenter\\Views\\MovableWindowBehavior.cs",
-              "ToolTip": "C:\\Users\\shade\\OneDrive\\Desktop\\labcenter\\labcenter\\Views\\MovableWindowBehavior.cs",
+              "ToolTip": "C:\\Proyectos\\C#\\GestorDeLaboratorio\\Labcenter\\labcenter\\Views\\MovableWindowBehavior.cs",
               "RelativeToolTip": "labcenter\\Views\\MovableWindowBehavior.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -159,9 +157,9 @@
               "DocumentIndex": 7,
               "Title": "IAuthenticationService.cs",
               "DocumentMoniker": "C:\\Users\\chris\\Downloads\\labcenter\\labcenter\\Services\\IAuthenticationService.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\chris\\Downloads\\labcenter\\labcenter\\Services\\IAuthenticationService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Users\\chris\\Downloads\\labcenter\\labcenter\\Services\\IAuthenticationService.cs",
               "ToolTip": "C:\\Users\\chris\\Downloads\\labcenter\\labcenter\\Services\\IAuthenticationService.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\chris\\Downloads\\labcenter\\labcenter\\Services\\IAuthenticationService.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Users\\chris\\Downloads\\labcenter\\labcenter\\Services\\IAuthenticationService.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-16T20:15:21.954Z"
             },
@@ -169,9 +167,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "SessionTimerForm.cs",
-              "DocumentMoniker": "C:\\Users\\shade\\OneDrive\\Desktop\\labcenter\\labcenter\\Views\\SessionTimerForm.cs",
+              "DocumentMoniker": "C:\\Proyectos\\C#\\GestorDeLaboratorio\\Labcenter\\labcenter\\Views\\SessionTimerForm.cs",
               "RelativeDocumentMoniker": "labcenter\\Views\\SessionTimerForm.cs",
-              "ToolTip": "C:\\Users\\shade\\OneDrive\\Desktop\\labcenter\\labcenter\\Views\\SessionTimerForm.cs",
+              "ToolTip": "C:\\Proyectos\\C#\\GestorDeLaboratorio\\Labcenter\\labcenter\\Views\\SessionTimerForm.cs",
               "RelativeToolTip": "labcenter\\Views\\SessionTimerForm.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -181,9 +179,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "TrayIconManager.cs",
-              "DocumentMoniker": "C:\\Users\\shade\\OneDrive\\Desktop\\labcenter\\labcenter\\Infrastructure\\TrayIconManager.cs",
+              "DocumentMoniker": "C:\\Proyectos\\C#\\GestorDeLaboratorio\\Labcenter\\labcenter\\Infrastructure\\TrayIconManager.cs",
               "RelativeDocumentMoniker": "labcenter\\Infrastructure\\TrayIconManager.cs",
-              "ToolTip": "C:\\Users\\shade\\OneDrive\\Desktop\\labcenter\\labcenter\\Infrastructure\\TrayIconManager.cs",
+              "ToolTip": "C:\\Proyectos\\C#\\GestorDeLaboratorio\\Labcenter\\labcenter\\Infrastructure\\TrayIconManager.cs",
               "RelativeToolTip": "labcenter\\Infrastructure\\TrayIconManager.cs",
               "ViewState": "AgIAAGoAAAAAAAAAAAAuwHMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -193,9 +191,9 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\shade\\OneDrive\\Desktop\\labcenter\\labcenter\\Program.cs",
+              "DocumentMoniker": "C:\\Proyectos\\C#\\GestorDeLaboratorio\\Labcenter\\labcenter\\Program.cs",
               "RelativeDocumentMoniker": "labcenter\\Program.cs",
-              "ToolTip": "C:\\Users\\shade\\OneDrive\\Desktop\\labcenter\\labcenter\\Program.cs",
+              "ToolTip": "C:\\Proyectos\\C#\\GestorDeLaboratorio\\Labcenter\\labcenter\\Program.cs",
               "RelativeToolTip": "labcenter\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -205,9 +203,9 @@
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "LabCenterConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\shade\\OneDrive\\Desktop\\labcenter\\labcenter\\Models\\LabCenterConfiguration.cs",
+              "DocumentMoniker": "C:\\Proyectos\\C#\\GestorDeLaboratorio\\Labcenter\\labcenter\\Models\\LabCenterConfiguration.cs",
               "RelativeDocumentMoniker": "labcenter\\Models\\LabCenterConfiguration.cs",
-              "ToolTip": "C:\\Users\\shade\\OneDrive\\Desktop\\labcenter\\labcenter\\Models\\LabCenterConfiguration.cs",
+              "ToolTip": "C:\\Proyectos\\C#\\GestorDeLaboratorio\\Labcenter\\labcenter\\Models\\LabCenterConfiguration.cs",
               "RelativeToolTip": "labcenter\\Models\\LabCenterConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -217,9 +215,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "AuthenticatedUser.cs",
-              "DocumentMoniker": "C:\\Users\\shade\\OneDrive\\Desktop\\labcenter\\labcenter\\Models\\AuthenticatedUser.cs",
+              "DocumentMoniker": "C:\\Proyectos\\C#\\GestorDeLaboratorio\\Labcenter\\labcenter\\Models\\AuthenticatedUser.cs",
               "RelativeDocumentMoniker": "labcenter\\Models\\AuthenticatedUser.cs",
-              "ToolTip": "C:\\Users\\shade\\OneDrive\\Desktop\\labcenter\\labcenter\\Models\\AuthenticatedUser.cs",
+              "ToolTip": "C:\\Proyectos\\C#\\GestorDeLaboratorio\\Labcenter\\labcenter\\Models\\AuthenticatedUser.cs",
               "RelativeToolTip": "labcenter\\Models\\AuthenticatedUser.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -229,9 +227,9 @@
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "Resources.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\shade\\OneDrive\\Desktop\\labcenter\\labcenter\\Properties\\Resources.Designer.cs",
+              "DocumentMoniker": "C:\\Proyectos\\C#\\GestorDeLaboratorio\\Labcenter\\labcenter\\Properties\\Resources.Designer.cs",
               "RelativeDocumentMoniker": "labcenter\\Properties\\Resources.Designer.cs",
-              "ToolTip": "C:\\Users\\shade\\OneDrive\\Desktop\\labcenter\\labcenter\\Properties\\Resources.Designer.cs",
+              "ToolTip": "C:\\Proyectos\\C#\\GestorDeLaboratorio\\Labcenter\\labcenter\\Properties\\Resources.Designer.cs",
               "RelativeToolTip": "labcenter\\Properties\\Resources.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -241,9 +239,9 @@
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "Settings.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\shade\\OneDrive\\Desktop\\labcenter\\labcenter\\Properties\\Settings.Designer.cs",
+              "DocumentMoniker": "C:\\Proyectos\\C#\\GestorDeLaboratorio\\Labcenter\\labcenter\\Properties\\Settings.Designer.cs",
               "RelativeDocumentMoniker": "labcenter\\Properties\\Settings.Designer.cs",
-              "ToolTip": "C:\\Users\\shade\\OneDrive\\Desktop\\labcenter\\labcenter\\Properties\\Settings.Designer.cs",
+              "ToolTip": "C:\\Proyectos\\C#\\GestorDeLaboratorio\\Labcenter\\labcenter\\Properties\\Settings.Designer.cs",
               "RelativeToolTip": "labcenter\\Properties\\Settings.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -253,9 +251,9 @@
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "Settings.settings",
-              "DocumentMoniker": "C:\\Users\\shade\\OneDrive\\Desktop\\labcenter\\labcenter\\Properties\\Settings.settings",
+              "DocumentMoniker": "C:\\Proyectos\\C#\\GestorDeLaboratorio\\Labcenter\\labcenter\\Properties\\Settings.settings",
               "RelativeDocumentMoniker": "labcenter\\Properties\\Settings.settings",
-              "ToolTip": "C:\\Users\\shade\\OneDrive\\Desktop\\labcenter\\labcenter\\Properties\\Settings.settings",
+              "ToolTip": "C:\\Proyectos\\C#\\GestorDeLaboratorio\\Labcenter\\labcenter\\Properties\\Settings.settings",
               "RelativeToolTip": "labcenter\\Properties\\Settings.settings",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002767|",
               "WhenOpened": "2026-06-16T20:33:16.999Z"
@@ -264,9 +262,9 @@
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "AssemblyInfo.cs",
-              "DocumentMoniker": "C:\\Users\\shade\\OneDrive\\Desktop\\labcenter\\labcenter\\Properties\\AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Proyectos\\C#\\GestorDeLaboratorio\\Labcenter\\labcenter\\Properties\\AssemblyInfo.cs",
               "RelativeDocumentMoniker": "labcenter\\Properties\\AssemblyInfo.cs",
-              "ToolTip": "C:\\Users\\shade\\OneDrive\\Desktop\\labcenter\\labcenter\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Proyectos\\C#\\GestorDeLaboratorio\\Labcenter\\labcenter\\Properties\\AssemblyInfo.cs",
               "RelativeToolTip": "labcenter\\Properties\\AssemblyInfo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
