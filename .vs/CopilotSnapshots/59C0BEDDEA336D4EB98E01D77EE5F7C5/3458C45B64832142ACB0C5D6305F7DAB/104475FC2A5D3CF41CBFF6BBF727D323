@@ -1,0 +1,143 @@
+﻿using System;
+using System.Drawing;
+using System.Windows.Forms;
+
+namespace labcenter
+{
+    public partial class Form1 : Form
+    {
+        bool permitirCerrar = false;
+        private Label lblContador;
+        private Label lblNombreUsuario;
+        private Timer contadorTimer;
+        private int tiempoTranscurrido = 0;
+
+        public Form1()
+        {
+            InitializeComponent();
+
+            // Pantalla completa
+            this.FormBorderStyle = FormBorderStyle.None;
+            this.WindowState = FormWindowState.Maximized;
+            this.TopMost = true;
+
+            // Fondo con imagen
+            this.BackgroundImage = Image.FromFile("fondoxd.jpeg"); // pon la imagen en la carpeta del .exe
+            this.BackgroundImageLayout = ImageLayout.Stretch;
+        }
+
+        private void btnLogin_Click(object sender, EventArgs e)
+        {
+            if (txtUser.Text == "admin" && txtPass.Text == "1234")
+            {
+                // Ocultar controles de login
+                this.txtUser.Visible = false;
+                this.txtPass.Visible = false;
+                this.btnLogin.Visible = false;
+                this.lblUser.Visible = false;
+                this.lblPass.Visible = false;
+                this.chkMostrar.Visible = false;
+
+                // Mostrar contador y nombre de usuario
+                MostrarContador();
+            }
+            else
+            {
+                MessageBox.Show("Incorrecto");
+            }
+        }
+
+        private void MostrarContador()
+        {
+            // Label con nombre de usuario
+            this.lblNombreUsuario = new Label();
+            this.lblNombreUsuario.Text = "Usuario: admin";
+            this.lblNombreUsuario.ForeColor = Color.White;
+            this.lblNombreUsuario.BackColor = Color.Transparent;
+            this.lblNombreUsuario.Font = new Font("Arial", 24, FontStyle.Bold);
+            this.lblNombreUsuario.AutoSize = true;
+            this.lblNombreUsuario.Location = new Point(this.ClientSize.Width / 2 - 150, this.ClientSize.Height / 2 - 150);
+            this.Controls.Add(this.lblNombreUsuario);
+
+            // Label para el contador
+            this.lblContador = new Label();
+            this.lblContador.Text = "00:00:00";
+            this.lblContador.ForeColor = Color.White;
+            this.lblContador.BackColor = Color.Transparent;
+            this.lblContador.Font = new Font("Arial", 64, FontStyle.Bold);
+            this.lblContador.AutoSize = false;
+            this.lblContador.Size = new Size(400, 100);
+            this.lblContador.TextAlign = ContentAlignment.MiddleCenter;
+            this.lblContador.Location = new Point(this.ClientSize.Width / 2 - 200, this.ClientSize.Height / 2);
+            this.Controls.Add(this.lblContador);
+
+            // Iniciar timer
+            contadorTimer = new Timer();
+            contadorTimer.Interval = 1000; // cada segundo
+            contadorTimer.Tick += new EventHandler(ContadorTimer_Tick);
+            contadorTimer.Start();
+
+            tiempoTranscurrido = 0;
+        }
+
+        private void ContadorTimer_Tick(object sender, EventArgs e)
+        {
+            tiempoTranscurrido++;
+
+            int horas = tiempoTranscurrido / 3600;
+            int minutos = (tiempoTranscurrido % 3600) / 60;
+            int segundos = tiempoTranscurrido % 60;
+
+            this.lblContador.Text = $"{horas:D2}:{minutos:D2}:{segundos:D2}";
+        }
+
+        // 👁️ Mostrar contraseña
+        private void chkMostrar_CheckedChanged(object sender, EventArgs e)
+        {
+            txtPass.PasswordChar = chkMostrar.Checked ? '\0' : '*';
+        }
+
+        protected override void OnFormClosing(FormClosingEventArgs e)
+        {
+            if (!permitirCerrar)
+                e.Cancel = true;
+        }
+
+        protected override bool ProcessCmdKey(ref Message msg, Keys keyData)
+        {
+            // 🔑 Modo admin
+            if (keyData == (Keys.Control | Keys.Shift | Keys.A))
+            {
+                MessageBox.Show("Modo administrador activado");
+
+                permitirCerrar = true;
+                this.TopMost = false;
+                this.Close();
+
+                return true;
+            }
+
+            // 🔴 Alt + F4
+            if (keyData == (Keys.Alt | Keys.F4))
+            {
+                MessageBox.Show("Cerrando aplicación...");
+
+                permitirCerrar = true;
+                this.TopMost = false;
+                this.Close();
+
+                return true;
+            }
+
+            return base.ProcessCmdKey(ref msg, keyData);
+        }
+        protected override void OnLoad(EventArgs e)
+        {
+            base.OnLoad(e);
+
+            // mover a la esquina superior derecha correctamente
+            lblPC.Left = this.ClientSize.Width - lblPC.Width - 20;
+            lblPC.Top = 20;
+        }
+    }
+}
